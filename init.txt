@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Hello hello my world
-=======
-hello world
-
-This is a edit Change from GitHub
->>>>>>> b6b12d071385a83c180a3bdfe13a58c2bd9ce9c5
+This isn't right
