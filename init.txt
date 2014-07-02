@@ -1,1 +1,3 @@
 No longer an init
+
+I got ssh working.
